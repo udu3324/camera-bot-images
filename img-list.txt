@@ -7,21 +7,22 @@
 # Img-URL-SRC
 # 
 # This forever repeats
-# 
+# The bot ignores lines starting with # and lines with nothing in it
 Clown
 You're a clown.
-
+https://raw.githubusercontent.com/udu3324/camera-bot-images/main/img/clown.png
 Troll Face
 Trolololololololo!!!!
-
+https://raw.githubusercontent.com/udu3324/camera-bot-images/main/img/troll.png
 Chad
 What a chad.
-
+https://raw.githubusercontent.com/udu3324/camera-bot-images/main/img/chad.png
 Discord Mod
 No memes in general!
-
+https://raw.githubusercontent.com/udu3324/camera-bot-images/main/img/mod.png
 Bernald
 Hottest woman in Tennessee
-
+https://pbs.twimg.com/profile_images/435159253226373121/TZ1EV6rv_400x400.jpeg
 Girl Shrek
 Your breath smells like onion
+https://raw.githubusercontent.com/udu3324/camera-bot-images/main/img/shrek-girl.png
