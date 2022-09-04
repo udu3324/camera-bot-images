@@ -1,0 +1,27 @@
+# Each image is stored on 3 lines
+# 
+# For example:
+# 
+# Img-Name
+# Img-Description
+# Img-URL-SRC
+# 
+# This forever repeats
+# 
+Clown
+You're a clown.
+
+Troll Face
+Trolololololololo!!!!
+
+Chad
+What a chad.
+
+Discord Mod
+No memes in general!
+
+Bernald
+Hottest woman in Tennessee
+
+Girl Shrek
+Your breath smells like onion
